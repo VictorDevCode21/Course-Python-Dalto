@@ -1,5 +1,5 @@
 #usamos el parámetro ¨w¨ que significa write
-with open("c:/Users/NB 3300/Documents/Programming/Curso de Python Dalto/Advanced/archivos/Puto.txt","w",encoding="UTF-8") as archivo:
+with open("c:/Users/NB 3300/Documents/Programming/Curso de Python Dalto/Advanced/archivos/random.txt","w",encoding="UTF-8") as archivo:
     #con esta funcion sobreescribimos el archivo y basicamente nos volamos todo lo que tenga para escribir algo nuevo xd 
     #archivo.write("holi holi")
     

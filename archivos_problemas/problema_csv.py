@@ -9,8 +9,8 @@ df["Age"] = df["Age"].astype(str)
 #mostrando el tipo de dato del primer elemento de la columna edad
 #print(type(df["Age"][0]))
 
-#reemplazando los datos "mamagueva" por "perra"
-df["Lastname"].replace("mamagueva","Perra",inplace=True)
+#reemplazando los datos "Velasquez" por "Arjona"
+df["Lastname"].replace("Velasquez","Arjona",inplace=True)
 
 #eliminando las filas con datos vacios
 df= df.dropna()

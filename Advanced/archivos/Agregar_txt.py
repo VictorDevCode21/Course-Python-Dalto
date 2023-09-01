@@ -1,5 +1,5 @@
 #usamos el parámetro ¨a¨ que significa append (agrega mas texto sin sobreescribir el anterior)
-with open("c:/Users/NB 3300/Documents/Programming/Curso de Python Dalto/Advanced/archivos/Puto.txt","a",encoding="UTF-8") as archivo:
+with open("c:/Users/NB 3300/Documents/Programming/Curso de Python Dalto/Advanced/archivos/random.txt","a",encoding="UTF-8") as archivo:
     
     #agregando el archivo (agrega un archivo tras otro sin sobreescribir)
     archivo.write("holi holi\n")
