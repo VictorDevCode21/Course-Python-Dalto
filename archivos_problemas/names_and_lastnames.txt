@@ -1,0 +1,17 @@
+The data is:
+
+Name: Victor
+Lastname: Rios
+--------
+Name: Aurora
+Lastname: Varela
+--------
+Name: Carlos
+Lastname: Aigster
+--------
+Name: Paola
+Lastname: Torres
+--------
+Name: Samuel
+Lastname: Gapo
+--------
