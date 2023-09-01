@@ -1,6 +1,6 @@
 #Nota: este metodo es para archivos pequeños, si tratamos de leer un archivo grande nos peta la ram xd 
 #usando "open" para abrir un archivo:
-#archivo= open("c:/Users/NB 3300/Documents/Programming/Curso de Python Dalto/Advanced/archivos\\Puto.txt")
+#archivo= open("c:/Users/NB 3300/Documents/Programming/Curso de Python Dalto/Advanced/archivos\\random.txt")
 
 #para imprimir el archivo sin leerlo hacemos esto:
 #print(archivo)
@@ -9,10 +9,10 @@
 #print(archivo.read())
 
 #para usar caracteres especiales tales como: '¿' y 'Ñ' usamos encoding=UTF-8:
-#open("c:/Users/NB 3300/Documents/Programming/Curso de Python Dalto/Advanced/archivos\\Puto.txt", encoding="UTF-8")
+#open("c:/Users/NB 3300/Documents/Programming/Curso de Python Dalto/Advanced/archivos\\random.txt", encoding="UTF-8")
 
 #para optimizar mas el codigo:
-archivo_sin_leer= open("c:/Users/NB 3300/Documents/Programming/Curso de Python Dalto/Advanced/archivos\\Puto.txt", encoding="UTF-8")
+archivo_sin_leer= open("c:/Users/NB 3300/Documents/Programming/Curso de Python Dalto/Advanced/archivos\\random.txt", encoding="UTF-8")
 
 #leer archivo completo
 #archivo=archivo_sin_leer.read()
